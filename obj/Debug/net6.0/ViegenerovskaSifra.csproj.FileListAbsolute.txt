@@ -1,0 +1,15 @@
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.csproj.AssemblyReference.cache
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.AssemblyInfoInputs.cache
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.AssemblyInfo.cs
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.csproj.CoreCompileInputs.cache
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\bin\Debug\net6.0\ViegenerovskaSifra.exe
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\bin\Debug\net6.0\ViegenerovskaSifra.deps.json
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\bin\Debug\net6.0\ViegenerovskaSifra.runtimeconfig.json
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\bin\Debug\net6.0\ViegenerovskaSifra.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\bin\Debug\net6.0\ref\ViegenerovskaSifra.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\bin\Debug\net6.0\ViegenerovskaSifra.pdb
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ref\ViegenerovskaSifra.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.pdb
+C:\Users\matve\Documents\Škola\9Semester\KaB\ViegenerovskaSifra\obj\Debug\net6.0\ViegenerovskaSifra.genruntimeconfig.cache

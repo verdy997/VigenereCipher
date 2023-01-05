@@ -1,0 +1,15 @@
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\bin\Debug\net6.0\VigenereCipher.exe
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\bin\Debug\net6.0\VigenereCipher.deps.json
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\bin\Debug\net6.0\VigenereCipher.runtimeconfig.json
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\bin\Debug\net6.0\VigenereCipher.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\bin\Debug\net6.0\ref\VigenereCipher.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\bin\Debug\net6.0\VigenereCipher.pdb
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.csproj.AssemblyReference.cache
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.AssemblyInfoInputs.cache
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.AssemblyInfo.cs
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.csproj.CoreCompileInputs.cache
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\ref\VigenereCipher.dll
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.pdb
+C:\Users\matve\Documents\Škola\9Semester\KaB\VigenereCipher\obj\Debug\net6.0\VigenereCipher.genruntimeconfig.cache
